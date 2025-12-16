@@ -6,7 +6,7 @@ Two-module Maven application for competitor management with REST API built on Sp
 
 ```
 root/
-├── core-module/           # Business logic & data access
+├── core-module/          # Business logic & data access
 │   ├── config/           # Spring configuration
 │   ├── dao/              # Data Access Objects
 │   ├── model/            # Domain models (Competitor)
