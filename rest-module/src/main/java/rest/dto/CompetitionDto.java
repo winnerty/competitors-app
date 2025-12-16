@@ -1,4 +1,4 @@
-package rest;
+package rest.dto;
 
 public class CompetitionDto {
     private String name;

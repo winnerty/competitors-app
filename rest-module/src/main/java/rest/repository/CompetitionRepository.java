@@ -1,6 +1,8 @@
-package rest;
+package rest.repository;
 
 import org.springframework.stereotype.Repository;
+import rest.dto.CompetitionDto;
+
 import java.util.ArrayList;
 import java.util.List;
 

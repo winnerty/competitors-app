@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.web.client.RestTemplate;
-import rest.CompetitionDto;
+import rest.dto.CompetitionDto;
 import java.util.Arrays;
 import java.util.List;
 

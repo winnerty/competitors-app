@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import org.springframework.http.*;
 import org.springframework.web.client.RestTemplate;
-import rest.CompetitionDto;
+import rest.dto.CompetitionDto;
 
 public class TestRST4 {
 

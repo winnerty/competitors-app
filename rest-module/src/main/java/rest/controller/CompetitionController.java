@@ -1,6 +1,9 @@
-package rest;
+package rest.controller;
 
 import org.springframework.web.bind.annotation.*;
+import rest.dto.CompetitionDto;
+import rest.repository.CompetitionRepository;
+
 import java.util.List;
 
 @RestController
